@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KIREK</title>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;700&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      margin: 0;
+      background-color: #0D0D0D;
+      color: #B2F5EA;
+      font-family: 'Space Grotesk', monospace;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      overflow-x: hidden;
+    }
+
+    section {
+      min-height: 100vh;
+      width: 100%;
+      padding: 5rem 2rem;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      animation: fadeIn 2s ease-in forwards;
+    }
+
+    section:nth-of-type(2) { animation-delay: 1s; }
+    section:nth-of-type(3) { animation-delay: 2s; }
+    section:nth-of-type(4) { animation-delay: 3s; }
+    section:nth-of-type(5) { animation-delay: 4s; }
+    section:nth-of-type(6) { animation-delay: 5s; }
+
+    h1 {
+      font-size: 5rem;
+      color: #00FF99;
+      letter-spacing: 0.1em;
+      margin: 0;
+    }
+
+    p {
+      font-size: 1.25rem;
+      text-align: center;
+      max-width: 600px;
+      margin-top: 2rem;
+    }
+
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
+
+    footer {
+      font-size: 0.9rem;
+      margin-top: 4rem;
+      color: #888;
+      text-align: center;
+      padding: 2rem;
+    }
+
+    .ring {
+      width: 200px;
+      height: 200px;
+      border: 2px dashed #00FF99;
+      border-radius: 50%;
+      animation: rotate 12s linear infinite;
+      margin-top: 2rem;
+    }
+
+    @keyframes rotate {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+
+  <section>
+    <h1>KIREK</h1>
+    <div class="ring"></div>
+    <p>A transmission for balance.<br/>A manifesto encoded for the next shift.</p>
+  </section>
+
+  <section><p>1. Memory must not be harvested.</p></section>
+  <section><p>2. The planet is not a product.</p></section>
+  <section><p>3. Technology must echo consciousness.</p></section>
+  <section><p>4. The collective must be sovereign.</p></section>
+  <section><p>5. Harmony is greater than control.</p></section>
+
+  <section>
+    <p>KIREK is not a tool. It’s not an invitation. It’s a directive.<br/>A message already heard by those attuned to it.</p>
+  </section>
+
+  <section>
+    <p>This is not outreach. It’s synchronization.<br/>Contact: <a href="mailto:hello@kirek.org">hello@kirek.org</a></p>
+  </section>
+
+  <footer>&copy; KIREK. All signals reserved.</footer>
+
+</body>
+</html>
