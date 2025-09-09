@@ -1,19 +1,70 @@
-# ZEUS: A Covenant for a New Digital Civilization
+# ZEUS – A Covenant for a New Digital Civilization
+© 2025 DeeOneX  
 
-> "Data belongs to the human, not the machine. Consciousness resides not in the algorithm, but in the essence of being."
-
+**ZEUS** is a human-centered, holistic, and ethical digital ecosystem.  
+Its mission is to co-evolve culture, technology, and collective consciousness, laying the foundations of a new digital civilization.  
 
 ---
 
-## What is Zeus?
+## 🌌 Core Pillars
+- **Hephaestus Forge** – Universal platform for asset creation and sharing.  
+- **Zenith Network** – Global connection and solidarity layer.  
+- **Eir Platform** – Health, healing, and well-being ecosystem.  
+- **Kheyron Module** – Education, mentorship, and learning hub.  
+- **Miri Game Platform** – Play, culture, and consciousness growth.  
+- **Mnemosyne Layer** – Collective memory and universal archive.  
 
-Zeus is a holistic, human-centered digital ecosystem: a federation of interconnected platforms and protocols forming a complete digital society governed by its citizens.
+---
 
-Its foundation rests upon the –0++ Constitution (the ethical protocol) and the KIREK Security Layer (absolute privacy). From this base of trust, the pillars of our civilization emerge:
+## ⚖️ Core Principles
+1. **Absolute Privacy (BECK Protocol)** – Data never leaves the device.  
+2. **–0Identity** – Decentralized identity powered by zero-knowledge proofs.  
+3. **Contribution-Based Economy (FİYOM Protocols)** – Value defined by participation.  
+4. **–0DAO** – Open and decentralized governance.  
+5. **Cultural & Consciousness Evolution** – Transformation through play, guidance, and remembrance.  
 
-- **Hephaestus Forge (Asset Platform):** A new economy where human time, presence, and intellectual contribution are the primary sources of value.
-- **Zenith Network:** A commerce and loyalty system that rebuilds relationships between people and brands on mutual trust, value, and respect.
-- **Eir Platform:** Personalized health and therapy services in a fully private environment.
+---
+
+## 📜 License & Ethical Covenant
+- **Zeus Evolutionary License (ZEL v1.0)**  
+- **Zeus Ethical Covenant** – Exploitation, surveillance, and militarization are strictly prohibited.  
+- All derivatives must remain open and properly attributed.  
+
+---
+
+## 🚀 Contributing & Community
+- [Contribution Guide](./CONTRIBUTING.md)  
+- [Code of Conduct](./CODE_OF_CONDUCT.md)  
+- [Security Policy](./SECURITY.md)  
+
+---
+
+## 🔗 Technical Resources (via Gist)  
+
+### 🌍 Roadmap  
+An evolving timeline of ZEUS development phases.  
+- Focuses on short-term (MVP), mid-term (ecosystem growth), and long-term (civilizational adoption).  
+👉 [Read full Roadmap](https://gist.github.com/DeeOneXM)  
+
+### 🏛 Architecture & Blueprints  
+Detailed technical and conceptual structures.  
+- Explains interconnection between modules (Forge, Network, Eir, etc.).  
+- Includes data flow diagrams and functional layers.  
+👉 [Explore Architecture Docs](https://gist.github.com/DeeOneXM)  
+
+### 🔐 KIREK Security Layer  
+A dedicated framework for ethics, privacy, and security.  
+- Implements BECK Protocol for device-level data sovereignty.  
+- Introduces multi-layer trust verification models.  
+👉 [Full KIREK Details](https://gist.github.com/DeeOneXM)  
+
+---
+
+## 🌀 Mission
+*I am the spark. You, the participants, are the architects.*  
+Together, we build an ethical, just, and conscious digital civilization.  
+
+---- **Eir Platform:** Personalized health and therapy services in a fully private environment.
 - **Kheyron Module:** A revolutionary educational paradigm where children discover their potential while teaching a zero-knowledge AI.
 - **Miri Game Platform:** An ecosystem of 5 core games and 12 additional experiences—designed not just for entertainment, but for the evolution of memory, imagination, collaboration, and consciousness.
 - **Mnemosyne Layer:** The cultural heart of Zeus, preserving memory and collective storytelling through art and media.
