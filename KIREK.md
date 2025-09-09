@@ -139,7 +139,7 @@ It must remain fully open and aligned with the spirit of protecting human dignit
   </section>
 
   <section>
-    <p>This is not outreach. It’s synchronization.<br/>Contact: <a href="mailto:hello@kirek.org">hello@kirek.org</a></p>
+    <p>This is not outreach. It’s synchronization.<br/>Contact: <a href="mailto:angyeda1@gmail.com">hello@kirek.org</a></p>
   </section>
 
   <footer>&copy; KIREK. All signals reserved.</footer>
