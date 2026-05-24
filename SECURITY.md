@@ -1,4 +1,4 @@
-Security Policy
+# Security Policy
 Our Philosophy
 In Thalanor, security is not a feature. It is a constitutional obligation.
 The –0++ First Law states: human dignity is a technical constraint. This means no system within Thalanor may surveil, expose, or compromise a user's data, identity, or behavior — not by policy, and not by accident. Security is enforced at the architecture level.
