@@ -18,7 +18,7 @@ Plus Plus (++): Enhancement of collective cooperation.
 🚀 Deployment and Integration
 KIREK is integrated into the Aion Fluid Reality Engine, providing a seamless security layer for:
 Bashkë: Protecting merchant data and transaction integrity.
-DeeOneXM: Filtering and selecting architects through the labyrinth interface.
+Thalanor Labyrinth: Filtering and selecting architects through a discovery-based interface.
 Synapse: Safeguarding the collective knowledge graph.
 
 --------------------------------------------------------------------------------
@@ -29,7 +29,7 @@ Status: Active | Protocol: –0++ | Domain: thalanor.io of consent.
 
 ## **License & Ethical Use**
 
-**License:** Zeus Evolutionary License v1.0 (ZEL v1.0) by DeeOneX  
+**License:** Zeus Evolutionary License v1.0 (ZEL v1.0) by Thalanor  
 
 **Ethics (Covenant):**
 - Must never be weaponized or used for coercive surveillance.  
@@ -37,5 +37,5 @@ Status: Active | Protocol: –0++ | Domain: thalanor.io of consent.
 - Derivatives must retain attribution and comply with the Zeus Ethical Covenant.  
 
 **Mini-License Note:**  
-This module is licensed under **ZEL v1.0** (©2025 DeeOneX).  
+This module is licensed under **ZEL v1.0** (©2025 Thalanor).  
 It must remain fully open and aligned with the spirit of protecting human dignity, privacy, and sovereignty.
