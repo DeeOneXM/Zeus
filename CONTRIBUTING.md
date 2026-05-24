@@ -1,55 +1,53 @@
 # Contributing to THALANOR
 
-Thank you for your interest in contributing to the THALANOR Digital Civilization project!
+Thank you for finding your way here.
+Thalanor is not a typical open source project. It is a parallel digital civilization being built from the ground up — through code, philosophy, art, engineering, agriculture, and every other form of genuine knowledge. If you are reading this, you have already demonstrated something.
 
-This is a unique initiative built on collective vision, ethical foundations, and respect for the evolution of consciousness.  
-We welcome all forms of meaningful contribution—whether through code, documentation, ideas, art, or other creative efforts.
+Before You Contribute
+Read these first:
 
----
+README.md — What Thalanor is
+MANIFESTO.md — The –0++ Constitutional Framework and its laws
+ROADMAP.md — Where we are and where we are going
+ZEL-LİCENCE.md — The license that governs all contributions
 
-## Guiding Principles
+Every contribution must align with the three operative laws of –0++:
 
-By contributing, you agree to uphold and protect the following core elements:
-- The **–0++ Constitution** (ethical protocol)
-- The **KIREK Security Layer** (absolute privacy)
-- The **ZEUS Evolutionary License (ZEL v1.0)**
-- The spirit and manifesto as described in the README
+Human dignity is a technical constraint
+Capital circulates within the community — it does not extract
+The system supports. It does not punish.
 
-All contributions must align with these principles.  
-Exploitative, coercive, or surveillance-driven suggestions will not be accepted.
+Contributions that contradict these laws — exploitation, surveillance, coercion, weaponization — will not be accepted.
 
----
+Ways to Contribute
+Think & Challenge
+Open an issue. Propose ideas, challenge existing concepts, identify gaps. The Issues section is Thalanor's Agora — debate is welcome, bad faith is not.
+Improve Documentation
+Fork the repository and suggest refinements to the constitution, manifestos, protocols, or any philosophical document. Clarity is a form of contribution.
+Build
+Code, architecture, security research, tools. If you are building something that aligns with Thalanor's ethical framework, open a discussion first — then build.
+Create
+Art, music, writing, visual design. Thalanor has a cultural layer (MNEMOSYNE) and a social layer (Agora). Creative contributions are as valid as technical ones.
+Propose
+New rights, new protocols, new modules. If you see something that should exist within the –0++ framework and doesn't yet, propose it.
 
-## Ways to Contribute
+Contribution Workflow
 
-- **Discuss & Ideate:** Join conversations, propose ideas, and challenge concepts in the [Issues](../../issues) section.
-- **Improve Documents:** Fork and suggest improvements to the constitution, protocols, or manifestos.
-- **Create:** Share code, art, stories, or tools that help realize the vision of THALANOR.
-- **Review & Collaborate:** Give constructive feedback on others’ contributions.
-- **Propose Rights & Protocols:** Suggest new rights, protocols, or modules within the ethical and privacy-first framework.
+Open an issue before submitting major changes — discuss intent first
+Fork the repository and work in your own branch
+Submit a pull request — describe what you changed, why, and how it aligns with the –0++ laws
+Engage in review — contributions are refined collaboratively, not unilaterally accepted or rejected
 
----
 
-## Contribution Workflow
+What Thalanor Is Not Looking For
 
-1. **Read the Manifesto:** Please start by reading the [README.md](./README.md) and [LICENSE.md](./LICENSE.md).
-2. **Open an Issue:** To discuss ideas or report problems, open an issue before submitting major changes.
-3. **Fork the Repo:** Make your changes in a forked repository.
-4. **Submit a Pull Request:** Describe your contribution, its purpose, and how it aligns with THALANOR’ values and principles.
-5. **Engage in Review:** Collaborate with the community and the project guide to refine your contribution for inclusion.
+Features that monetize user attention or behavior
+Surveillance or data-collection capabilities
+Military or coercive applications
+Anything that treats human dignity as negotiable
 
----
 
-## Code of Conduct
+A Note on Knowledge
+Thalanor's architect selection mechanism (deeonexm.com) exists because we believe every genuine knowledge has civilizational value — not just software engineering. If you arrived here through a different path, that path matters.
 
-All participants are expected to foster a respectful, inclusive, and thoughtful environment.
-Discrimination, harassment, or any behavior undermining human dignity will not be tolerated.
-
----
-
-## A Living Project
-
-THALANOR is built by many minds.  
-Your perspective, inspiration, and creativity are vital—whether you contribute with code, art, ideas, or feedback.
-
-**Thank you for being part of our collective journey!**
+thalanor.io — deeonexm.com
