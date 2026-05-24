@@ -1,6 +1,6 @@
-# Contributing to ZEUS
+# Contributing to THALANOR
 
-Thank you for your interest in contributing to the ZEUS Digital Civilization project!
+Thank you for your interest in contributing to the THALANOR Digital Civilization project!
 
 This is a unique initiative built on collective vision, ethical foundations, and respect for the evolution of consciousness.  
 We welcome all forms of meaningful contribution—whether through code, documentation, ideas, art, or other creative efforts.
@@ -24,7 +24,7 @@ Exploitative, coercive, or surveillance-driven suggestions will not be accepted.
 
 - **Discuss & Ideate:** Join conversations, propose ideas, and challenge concepts in the [Issues](../../issues) section.
 - **Improve Documents:** Fork and suggest improvements to the constitution, protocols, or manifestos.
-- **Create:** Share code, art, stories, or tools that help realize the vision of ZEUS.
+- **Create:** Share code, art, stories, or tools that help realize the vision of THALANOR.
 - **Review & Collaborate:** Give constructive feedback on others’ contributions.
 - **Propose Rights & Protocols:** Suggest new rights, protocols, or modules within the ethical and privacy-first framework.
 
@@ -35,7 +35,7 @@ Exploitative, coercive, or surveillance-driven suggestions will not be accepted.
 1. **Read the Manifesto:** Please start by reading the [README.md](./README.md) and [LICENSE.md](./LICENSE.md).
 2. **Open an Issue:** To discuss ideas or report problems, open an issue before submitting major changes.
 3. **Fork the Repo:** Make your changes in a forked repository.
-4. **Submit a Pull Request:** Describe your contribution, its purpose, and how it aligns with ZEUS’ values and principles.
+4. **Submit a Pull Request:** Describe your contribution, its purpose, and how it aligns with THALANOR’ values and principles.
 5. **Engage in Review:** Collaborate with the community and the project guide to refine your contribution for inclusion.
 
 ---
@@ -49,7 +49,7 @@ Discrimination, harassment, or any behavior undermining human dignity will not b
 
 ## A Living Project
 
-ZEUS is built by many minds.  
+THALANOR is built by many minds.  
 Your perspective, inspiration, and creativity are vital—whether you contribute with code, art, ideas, or feedback.
 
 **Thank you for being part of our collective journey!**
