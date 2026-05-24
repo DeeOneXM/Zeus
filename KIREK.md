@@ -1,65 +1,29 @@
-# **KIREK Security Platform**
+# KIREK: The Immune System of Thalanor
 
-> "Privacy is not a feature, it is the foundation of freedom."
+KIREK is not a firewall. It is a living immune system designed to protect the digital organism of Thalanor. Following the –0++ Constitutional Framework, KIREK ensures that human dignity remains a technical constraint across all platforms.
+🛡️ Core Philosophy: Pedagogical Protection
+Unlike traditional security systems that focus on "blocking," KIREK focuses on "guidance and immunity." It identifies intent and redirects harmful actions toward constructive outcomes. If an entity attempts to violate the constitutional boundaries, KIREK doesn't just cut the connection; it educates the actor or isolates the threat to prevent contagion.
+🏗️ Technical Architecture (The 5 Pillars)
+KIREK operates through five integrated modules, each acting as a layer of defense and health monitoring:
+Network Guard: Real-time traffic analysis and anomaly detection at the edge.
+DNS Sniffer: Proactive identification of malicious domains and data-harvesting trackers.
+Protocol Shield: Ensuring the integrity of P2P communications within the –0NET infrastructure.
+Identity Guardian (VARLIK Integration): Protecting the sovereignty of user identities and preventing unauthorized data leaks.
+Constitutional Watchdog: The final arbiter that checks every transaction against the –0++ ethical layer.
+⚖️ Rule Enforcement
+Every interaction within the Thalanor ecosystem must pass through KIREK’s validation layer.
+Zero (-0): Neutralization of extraction-based threats.
+Plus (+): Strengthening of individual sovereignty.
+Plus Plus (++): Enhancement of collective cooperation.
+🚀 Deployment and Integration
+KIREK is integrated into the Aion Fluid Reality Engine, providing a seamless security layer for:
+Bashkë: Protecting merchant data and transaction integrity.
+DeeOneXM: Filtering and selecting architects through the labyrinth interface.
+Synapse: Safeguarding the collective knowledge graph.
 
----
-
-## **Overview**
-
-KIREK is the **constitutional immune system** of the Zeus Digital Civilization.  
-It is both a **platform** (providing tangible security and privacy services) and a **principle** (ensuring the inviolable rights of digital citizens).
-
-KIREK guarantees that **personal data never leaves the device**, that all interactions are shielded by ephemeral encryption, and that sovereignty always remains with the user.
-
----
-
-## **Core Features**
-
-- **BECK Protocol:**  
-  Generates unbreakable, ephemeral encryption keys using environmental and biometric data.  
-  Prevents centralized hacks by decentralizing the very essence of key creation.
-
-- **Silent Guardian:**  
-  A zero-trust AI that continuously scans for anomalies while respecting absolute user privacy.
-
-- **Operating Systems:**  
-  - **KIREK OS**: A lightweight, privacy-first operating layer.  
-  - **Andro++ OS**: Secure adaptation for mobile and embedded devices.
-
-- **Hardware Modules:**  
-  - **Aegis Data Shield** (Smart Home privacy hub)  
-  - **External Security Key** (physical authentication token)  
-  - **Listener Stone** (anti-surveillance acoustic defense)
-
----
-
-## **Constitutional Role**
-
-KIREK is not just security software — it is the **immune system of Zeus Civilization**.  
-Every other module, from commerce to education, relies on KIREK to ensure **trust, dignity, and protection**.
-
-- Protects against coercion and unauthorized surveillance  
-- Defends the sovereignty of user identity  
-- Enables all other modules to operate under **absolute trust**
-
----
-
-## **Installation**
-
-See `kirek_setup.md` for detailed instructions.  
-
-Basic steps:  
-1. Install KIREK OS or integrate with existing infrastructure.  
-2. Activate BECK Protocol with biometric/environmental seed data.  
-3. Register hardware modules (optional but recommended).  
-
----
-
-## **Usage**
-
-- Use KIREK as the foundational shield for all Zeus modules.  
-- No module may bypass KIREK; it is constitutionally mandatory.  
-- User control is absolute: no data leaves the device without cryptographic proof of consent.
+--------------------------------------------------------------------------------
+"Security is not the absence of threats, but the presence of a healthy response."
+Status: Active | Protocol: –0++ | Domain: thalanor.ioof consent.
 
 ---
 
