@@ -1,8 +1,8 @@
-# ZEUS Project Code of Conduct
+# THALANOR Project Code of Conduct
 
 ## Our Vision
 
-The Zeus project strives to create a productive, respectful, and inclusive community where everyone can contribute. Respect for ideas and people is the foundation of a safe and supportive environment.
+The Thalanor project strives to create a productive, respectful, and inclusive community where everyone can contribute. Respect for ideas and people is the foundation of a safe and supportive environment.
 
 ## Code of Conduct
 
