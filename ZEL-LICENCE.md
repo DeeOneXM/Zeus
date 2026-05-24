@@ -1,6 +1,6 @@
 # Thalanor Ethical License
 ZEL v1.0 — Thalanor Evolutionary License
-Copyright (C) 2025–2026 DeeOneX
+Copyright (C) 2025–2026 THALANOR
 This license governs all code, platforms, theories, manifestos, protocols, and cultural artifacts created under the Thalanor Digital Civilization project and its predecessor, the Zeus project.
 
 1. Core Rights and Restrictions
@@ -20,10 +20,10 @@ Users hold inalienable rights to privacy, data erasure, and protection from expl
 Intellectual, creative, and technical contributions are recognized as primary sources of value within the ecosystem. Attribution is not optional.
 
 2. Attribution
-All works originating from this project are attributed to DeeOneX as the original author and founding architect.
+All works originating from this project are attributed to Thalanor as the original author and founding architect.
 Any derivative work, fork, or adaptation must include the following attribution statement prominently:
 
-"Based on the Thalanor Evolutionary License (ZEL v1.0) by DeeOneX."
+"Based on the Thalanor Evolutionary License (ZEL v1.0) by Thalanor."
 
 
 3. Binding and Enforceability
