@@ -23,7 +23,7 @@ Synapse: Safeguarding the collective knowledge graph.
 
 --------------------------------------------------------------------------------
 "Security is not the absence of threats, but the presence of a healthy response."
-Status: Active | Protocol: –0++ | Domain: thalanor.ioof consent.
+Status: Active | Protocol: –0++ | Domain: thalanor.io of consent.
 
 ---
 
