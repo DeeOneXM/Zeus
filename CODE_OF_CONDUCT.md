@@ -1,28 +1,33 @@
 # THALANOR Project Code of Conduct
 
-## Our Vision
+Our Foundation
+Thalanor is built on the –0++ Constitutional Framework. The Third Law states: the system supports, it does not punish. This law governs not only our software but our community.
+Every person who contributes to Thalanor — through code, philosophy, art, agriculture, engineering, or any other form of knowledge — carries equal dignity. The –0++ First Law applies here too: human dignity is a technical constraint. It cannot be negotiated away in any interaction, digital or otherwise.
 
-The Thalanor project strives to create a productive, respectful, and inclusive community where everyone can contribute. Respect for ideas and people is the foundation of a safe and supportive environment.
+Expected Conduct
 
-## Code of Conduct
+Engage with ideas directly and honestly
+Disagree with arguments, not with people
+Acknowledge that every genuine knowledge has value, even when it comes from an unexpected domain
+Communicate across cultural and linguistic differences with patience
+Build on what others have started
 
-- Every contribution is valued; no discrimination is tolerated.
-- Communication should be respectful, polite, and constructive.
-- Disagreements should never lead to personal attacks.
-- Remember that community members come from diverse backgrounds and cultures.
-- Discriminatory or exclusionary language or behavior based on gender, age, ability, ethnicity, religion, or similar characteristics is prohibited.
-- Harassment, threats, demeaning, or exclusionary behaviors that endanger the safety of the community are not tolerated.
 
-## Reporting Inappropriate Behavior
+What Is Not Tolerated
 
-If you believe someone has violated these rules, please report it to [add email address] or contact the repository maintainers via GitHub.
+Harassment, threats, or demeaning behavior of any kind
+Discrimination based on gender, age, ability, ethnicity, religion, nationality, or background
+Surveillance, data extraction, or privacy violations of any contributor
+Bad-faith contributions designed to undermine the –0++ framework or ZEL license
+Weaponizing the community or codebase against any person or group
 
-All reports will be handled confidentially, and appropriate action will be taken to ensure community safety.
 
-## Conclusion
+Enforcement
+Reports of conduct violations may be submitted via GitHub's private messaging or through the repository's Security Advisory mechanism.
+All reports are handled with confidentiality. Action will be taken proportional to the violation, always oriented toward restoration rather than punishment — consistent with the Third Law.
 
-By participating, every member agrees to abide by this Code of Conduct. The Zeus project aims for every contributor to feel safe and valued.
+The Standard
+We are building a civilization. The way we treat each other in this repository is practice for the world we intend to create.
 
----
-
-*This document is based on the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).*
+This Code of Conduct applies to all Thalanor repositories, discussions, and community spaces.
+thalanor.io — deeonexm.com
