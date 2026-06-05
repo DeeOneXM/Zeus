@@ -25,7 +25,7 @@ We publish philosophical and governance documents first — because the architec
 
 Thalanor is nine integrated platforms — security, identity, value exchange, advertising, commerce, education, culture, social connection, governance — governed by a single ethical layer. Its backbone is **Aion**, the Fluid Reality Engine connecting all platforms through consent-aware data flow.
 
-The first production-ready product is **Bashkë** — a FISK-compliant digital cooperative for small merchants, with Albania as the pilot deployment target.
+The first production-ready product is **Bashkë** — a FISK-compliant digital cooperative for small merchants, with Estonia as the pilot deployment target.
 
 The architect selection interface is at **[deeonexm.com](https://deeonexm.com)** — a puzzle, not a form.
 
